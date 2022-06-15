@@ -1,4 +1,4 @@
-## apikey の誤ったコミットの消去
+## apikeyなどの誤ったコミットの消去
 
 - https://qiita.com/dynamonda/items/fa98d141c44098890be3
 
