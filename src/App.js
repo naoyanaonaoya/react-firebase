@@ -10,6 +10,8 @@ import {
 } from "firebase/firestore";
 
 function App() {
+  console.log(process.env.REACT_APP_API_KEY);
+
   const [posts, setPosts] = useState([]);
 
   // browseがマウントされたときに一回だけuseEffectの中身が実行される
