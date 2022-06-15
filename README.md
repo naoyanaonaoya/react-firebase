@@ -1,3 +1,6 @@
+# apikeyの誤ったコミットの消去
+- https://qiita.com/dynamonda/items/fa98d141c44098890be3
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
