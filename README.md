@@ -1,9 +1,11 @@
-## apikeyの誤ったコミットの消去
+## apikey の誤ったコミットの消去
+
 - https://qiita.com/dynamonda/items/fa98d141c44098890be3
 
-## .envの設定
+## .env の設定
+
 - https://dabohaze.site/react-env/
-    - 変数が反映されない場合はnpm startしなおす
+  - 変数が反映されない場合は npm start しなおす
 
 # Getting Started with Create React App
 
